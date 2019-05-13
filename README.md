@@ -2,19 +2,17 @@
 youtube vid source code
 
 # courses
-All of my courses have source code too! :)
+As always, all of my courses have source code too! :)
+Here are some discount codes.
 
-Core Location MapKit Course: http://bit.ly/ytmapkit
+Core Location MapKit Course: http://bit.ly/ghmapkit
 
-CORE DATA Course: http://bit.ly/injectcoredata
+CORE DATA Course: http://bit.ly/ghcoredata
 
-Free Course: http://bit.ly/freeiosdevcourse
+Collection View (Pinterest) Course: http://bit.ly/ghcvlayouts
 
-Collection View (Pinterest) Course: http://bit.ly/cvlayouts
+UITableView Animations: http://bit.ly/ghuitableviews
 
-UITableView Animations: http://bit.ly/uitableviews
+Sticker Pack Course: http://bit.ly/ghstickerpack
 
-Sticker Pack Course: http://bit.ly/stickerpackcourse
-
-Build a Beginner To Do List: http://bit.ly/todolistswift
-
+Build a Beginner To Do List: http://bit.ly/ghtodolist
